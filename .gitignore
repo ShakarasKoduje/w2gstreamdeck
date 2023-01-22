@@ -1,0 +1,8 @@
+.vevn/
+__pycache__/
+geckodriver.log
+sprawdzamy.py
+argumenty.py
+*.png
+*.docx
+*.env
