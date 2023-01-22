@@ -6,3 +6,5 @@ drugi: nazwę zmiennej środowiskowej przechowującej dane dotyczące loginu. np
 trzeci: nazwę zmiennej środowiskowej przechowującej dane dotyczące hasła. np. HASLO
 przed wywołaniem polecenia z tymi argumentami należy je uaktywnić w systemie/srodowisku
 podajac w cmd komendy $env:LOGIN
+
+Instrukcja jak postępować znajduje się w pliku korzystanieZeZmiennychSrodowiskowychPython.docx
